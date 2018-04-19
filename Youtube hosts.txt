@@ -70,6 +70,8 @@ partnerad.l.doubleclick.net
 pixel.moatads.com
 prod.spotify.map.fastlylb.net
 pubads.g.doubleclick.net
+*---sn-*.googlevideo.com
+r1---sn-*.googlevideo.com
 r1---sn-vgqsen7z.googlevideo.com
 r1.sn-vgqsen7z.googlevideo.com
 r17---sn-vgqsenes.googlevideo.com
