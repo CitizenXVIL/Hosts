@@ -328,7 +328,6 @@ bgrndi.com
 bidder.mdspinc.com
 bidsopt.com
 bigmobileads.com
-bitmango.com/log
 bizographics.com
 black6adv.com
 blogads.com
@@ -558,7 +557,6 @@ innity.net
 innovid.com
 insightexpressai.com
 inskin.vo.llnwd.net
-inst.platform.bing.com/api/log
 installtracker.com
 integral-marketing.com
 intellitxt.com
@@ -614,7 +612,6 @@ luxup.ru
 lxqcgj.com
 m.12306media.com
 m.mixadvert.com
-m.vk.com/counters.php
 m.vpadn.com
 m.yap.yahoo.com
 mad.mobisky.pl
@@ -652,7 +649,6 @@ microad.net
 millennialmedia.com
 mixadvert.com
 mixmarket.biz
-mixpanel.com/track
 mlb.did.ijinshan.com
 mmnetwork.mobi
 mo.freeindoapp.com
@@ -824,7 +820,6 @@ rlog-api.under9.co
 rlog.9gag.com
 robocat.me
 rotaban.ru
-rs.mail.ru/pixel
 rt.applovin.com
 rt.applvn.com
 rtb.kds.media
@@ -971,7 +966,6 @@ ufz.doesxyz.com
 ulink.adjust.com
 ultraadserver.com
 umbel.com
-umeng.com/app_logs
 underclick.ru
 unicume.com
 upalytics.com
