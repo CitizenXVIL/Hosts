@@ -5986,7 +5986,6 @@ gserv.cneteu.net
 gslbeacon.lijit.com
 gsm-mobile-phone.beesearch.info
 gsmtop.net
-gstatic.com
 gtcc1.acecounter.com
 gto-media.com
 gtop100.com
