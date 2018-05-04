@@ -1,7 +1,7 @@
 # Hosts
 Personal hosts list for AdHell 3.
 
-Link: https://github.com/CitizenXVIL/Hosts/blob/master/Advanced%20hosts%20list.txt
+Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Advanced%20hosts%20list.txt
   (Combined list of hosts_adguard_youtube with adguard_simplified)
 
 Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/hosts_adguard_youtube.txt
