@@ -1,4 +1,4 @@
-# Personal hosts list for AdHell 3.
+# Personal hosts list for mobile ad blockers apps.
 
 ## Main lists
 
