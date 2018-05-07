@@ -5,13 +5,16 @@
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Experimental%20Hosts%20List%201.txt
 
    - Combined list of hosts_adguard_youtube with adguard_simplified
+   - Short link: https://bit.ly/2JYH8Ni
   
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Experimental%20Hosts%20List%202.txt
 
    - Script with default domains plus adguard's simplified host list
 
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/hosts_adguard_youtube.txt
+
    - Combine AH3 default list with youtube_hosts and adguard mobile domains list
+   - https://bit.ly/2JZ0RfP
 
 
 ## Add-on Lists
