@@ -60,7 +60,6 @@
 *.linkpulse.com
 *.marketgid.com
 *.marketscore.com
-*.ntent.com
 *.oewabox.at
 *.omtrdc.net
 *.onet.pl
@@ -315,6 +314,7 @@
 1kdailyprofit.biz
 1l-hit.mail.ru
 1link.mail.ru
+1l-view.mail.ru
 1man1jar.org
 1man2needles.com
 1max2kdo.com
@@ -1564,6 +1564,7 @@ adc.tripple.at
 adc.xxxlshop.de
 adc.xxxlutz.de
 adc2.adcentriconline.com
+adc3-launch.adcolony.com
 adcache.aftenposten.no
 adcade.com
 adcamel.pw
@@ -2015,6 +2016,7 @@ admedia.wsod.com
 admedia.xoom.com
 admediacdn.liveuniversenetwork.com
 admedias.net
+ad-mediation.tuanguwen.com
 admedit.net
 admedo.com
 admeerkat.com
@@ -2445,6 +2447,7 @@ adservice.google.co.jp
 adservice.google.co.uk
 adservice.google.com
 adservice.google.com.au
+adservice.google.nl
 adservices.google.com
 adservices.picadmedia.com
 adservicestats.com
@@ -2871,6 +2874,7 @@ advertise-bz.cn
 advertiseforfree.co.za
 advertisegame.com
 advertiseireland.com
+advertisement.avosapps.us
 advertiser.fyber.com
 advertiser.xxxwebtraffic.com
 advertisers.federatedmedia.net
@@ -3678,6 +3682,7 @@ anwufkjjja.com
 anx.mywebsearch.com
 anxiousapples.com
 anyad.cn
+anycast.dt.adsafeprotected.com
 anyclip-media.com
 anyfiles.ru
 any-log.videe.tv
@@ -6251,7 +6256,6 @@ casino770.com
 casino-gambling-online.searchservice.info
 casinogames.com
 casino-online.100gal.net
-casinopays.com
 casinorewards.com
 casinotraffic.com
 casinotreasure.com
@@ -6746,6 +6750,7 @@ certifiedwinners.today
 ceseyitsikzs.com
 ceskydomov.alias.ngs.modry.cz
 cesxssavc.com
+cetelemportugal2.solution.weborama.fr
 cetrk.com
 cettente.com
 cettenu.com
@@ -7607,6 +7612,7 @@ config.parsely.com
 config.playwire.com
 config.sensic.net
 config.tremorhub.com
+config.unityads.unity3d.com
 config2.mparticle.com
 confirmational.com
 confirmed-profits.com
@@ -8136,6 +8142,7 @@ cstatic.weborama.fr
 cstdfxkxbqbc.com
 cstkk.720pizle.com
 csxokexd.com
+csync.smartadserver.com
 csyngxtkifrh.com
 ct.buzzfeed.com
 ct.pinterest.com
@@ -8633,6 +8640,7 @@ data.mob.com
 data.murdoog.com
 data.namesakeoscilloscopemarquis.com
 data.neosmi.ru
+data.netscope.marktest.pt
 data.panachetech.com
 data.permittingnorthlandseamen.info
 data.sec.miui.com
@@ -10232,6 +10240,7 @@ eu-ad.sam4m.com
 eu-adcenter.net
 euarbohjj.com
 eudcqm.uihdlx.xyz
+eu-gmtdmp.gd1.mookie1.com
 euhewiruckv.com
 eulerian.net
 euleriancdn.net
@@ -11066,7 +11075,6 @@ following-technology.com
 folloyu.com
 fonderreaders.info
 fonderredd.info
-fonecta.leiki.com
 fontsapi278.com
 fontsapi398.com
 foo.cosmocode.de
@@ -11674,6 +11682,7 @@ geo.crtracklink.com
 geo.digitalpoint.com
 geo.kaloo.ga
 geo.ltassrv.com
+geo.moatads.com
 geo.precisionclick.com
 geo.qualaroo.com
 geo.query.yahoo.com
@@ -14185,6 +14194,8 @@ iu1xoe7o.com
 iuabiwhclldt.com
 iunbrudy.net
 iupqelechcmj.com
+iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 iuymaolvzery.com
 ivanie.com
 ivcbrasil.org.br
@@ -18561,6 +18572,7 @@ ntbanner.digitalriver.com
 ntbftkhrsrh.com
 ntdesk.de
 ntduattgboduk.com
+ntent.com
 ntlab.org
 ntndubuzxyfz.com
 ntnlawgchgds.com
@@ -18800,6 +18812,7 @@ offergo.net
 offerhaus.link
 offerjuice.me
 offermatica.com
+offer-mediaservices.download
 offerpalads.com
 offerpoint.net
 offerreality.com
@@ -20807,6 +20820,7 @@ ptchits.com
 p-td.com
 ptengine.com
 ptgiweiu.com
+pt-gmtdmp.mookie1.com
 ptiqsfrnkmmtvtpucwzsaqonmvaprjafeerwlyhabobuvuazun.com
 ptlbzqzveii.com
 ptmopenclose.click
@@ -20870,6 +20884,7 @@ publisher.infinityads.com
 publisher.to
 publisher.xxxwebtraffic.com
 publisheradnetwork.com
+publisher-config.unityads.unity3d.com
 publisherhub.plaimedia.com
 publishers.adscholar.com
 publishers.bidtraffic.com
@@ -20889,6 +20904,7 @@ pubpress.net
 pubrain.com
 pubs.lemonde.fr
 pubserve.net
+pubserver.xl.pt
 pubshop.img.uol.com.br
 pubted.com
 pubwise.io
@@ -21377,6 +21393,7 @@ r.teads.tv
 r.topdent.ru
 r.toplaygame.ru
 r.turn.com
+r.turn.com.akadns.net
 r.twimg.com
 r.unicornmedia.com
 r1.3crowd.com
@@ -22896,6 +22913,7 @@ secure.insightexpressai.com
 secure.livechatinc.com
 secure.mbcontact.com
 secure.mediafeed.me
+secure.netscope.marktest.pt
 secure.plimus.com
 secure.quantserve.com
 secure.safebillings.com
@@ -23697,6 +23715,7 @@ softexcellence.com
 softicons.com
 softingo.com
 softlinkers.popunder.ru
+softnewready.systemgeneratorofbrandnewcontent.date
 softologicsb.com
 softonic.com
 softonic.it
@@ -24068,6 +24087,7 @@ st.dynamicyield.com
 st.ipornia.com
 st.n.ads5-adnow.com
 st.nex8.net
+st.pba.xl.pt
 st.plenomedia.com
 st.sageanalyst.net
 st.shinobi.jp
@@ -24670,6 +24690,7 @@ swoop.com
 swoopgrid.com
 sworatio.co
 swordfishdc.com
+sworkitads.herokuapp.com
 swtwtbiwbjvq.com
 swualyer.com
 swxhp.pw
@@ -25768,7 +25789,6 @@ top-shop.ru
 topsir.com
 topsite.lv
 top-site-list.com
-topsites.com.br
 top-staging.mail.ru
 topstat.com
 topstats.com
@@ -27908,6 +27928,7 @@ wcqlebpges.com
 wct.click
 wct.link
 wc-tracking.lavasoft.com
+wd.adcolony.com
 wd.sharethis.com
 wdads.sx.atl.publicus.com
 wdbddckjoguz.com
@@ -28541,6 +28562,7 @@ wvzhj.com
 ww.at918.com
 ww.jinzhao99.com
 ww1.securedatavalidation.com
+ww1510.smartadserver.com
 ww2.sinaimg.cn
 ww251.smartadserver.com
 ww38.smartadserver.com
