@@ -60,6 +60,7 @@
 *.linkpulse.com
 *.marketgid.com
 *.marketscore.com
+*.ntent.com
 *.oewabox.at
 *.omtrdc.net
 *.onet.pl
@@ -18572,7 +18573,6 @@ ntbanner.digitalriver.com
 ntbftkhrsrh.com
 ntdesk.de
 ntduattgboduk.com
-ntent.com
 ntlab.org
 ntndubuzxyfz.com
 ntnlawgchgds.com
