@@ -7,12 +7,6 @@
    - Script with default domains plus adguard's simplified host list
    - https://bit.ly/2KhySZ3
 
-* Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/hosts_adguard_youtube.txt
-
-   - Combine AH3 default list with youtube_hosts and adguard mobile domains list
-
-
-
 ## Add-on Lists
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Youtube%20hosts.txt
 
