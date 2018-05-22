@@ -4,8 +4,13 @@
 
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Expanded_hosts_list.txt
 
-   - Script with default domains plus adguard's simplified host list
+   - Ran script with default domains plus adguard's simplified host list
    - https://bit.ly/2KhySZ3
+   
+* Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Expanded_hosts_list_reduced.txt
+
+   - Ran script to reduce redundant subdomains and other entries from Expanded_hosts_list
+   - https://bit.ly/2LhsH8B
 
 ## Add-on Lists
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Youtube%20hosts.txt
