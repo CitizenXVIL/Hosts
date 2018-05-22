@@ -58,6 +58,7 @@
 *.kaffnet.com
 *.kontera.com
 *.linkpulse.com
+*.manage.com
 *.marketgid.com
 *.marketscore.com
 *.ntent.com
@@ -16516,7 +16517,6 @@ mama128.valuehost.ru
 mambo.kiev.ua
 mamydirect.com
 mamypos.com
-manage.com
 manager.rovion.com
 manchina.xyz
 maneta.info
