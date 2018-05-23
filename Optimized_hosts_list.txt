@@ -10804,6 +10804,7 @@ graph.accountkit.com
 grapheffect.com
 graphics.fastcupid.com
 graphics.streamray.com
+graph.facebook.com
 graphinsider.com
 graphli.net
 gratifymecorrect.com
