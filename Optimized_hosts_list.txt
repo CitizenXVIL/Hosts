@@ -1,6 +1,7 @@
 *.1stok.com
 *.about-tabs.com
 *.adserver.com
+*.adtech.de
 *.adtech.fr
 *.adtech.us
 *.advance.net
@@ -9,11 +10,13 @@
 *.crashlytics.com
 *.economicoutlook.net
 *.focalink.com
+*.generals.ea.com
 *.glpals.com
 *.googlezip.net
 *.hut1.ru
 *.kaffnet.com
 *.manage.com
+*.ntent.com
 *.onet.pl
 *.ourtablets.com
 *.p2l.info
@@ -881,6 +884,7 @@
 9c690ac2bcb.com
 9c9dc429637a02.download
 9cd76b4462bb.com
+9content.com
 9d63c80da.pw
 9d683ea679bc03ff.com
 9de40afd8952279e2e.com
@@ -1365,6 +1369,7 @@ adchap.com
 adchemical.com
 adchemix.com
 adchemy.com
+adchemy-content.com
 adchoice.co.za
 adcina.de
 ad-ck.ru
@@ -1728,6 +1733,7 @@ adman.gr
 adman.in.gr
 adman.otenet.gr
 adman.se
+admanage.com
 admanagement.ch
 admanager.adam4adam.com
 admanager.beweb.com
@@ -2293,10 +2299,9 @@ ad-srv.net
 adsrv2.wilmingtonstar.com
 adsrv4k.com
 adsrvgateway.com
-adsrvmedia.com
+adsrvmedia.*
 adsrvn.com
-adsrvr.com
-adsrvr.org
+adsrvr.*
 adssend.net
 adssites.net
 adsspace.net
@@ -2312,7 +2317,7 @@ adstars.co.id
 adstat.4u.pl
 adstatic.com
 adsterra.com
-adstest.weather.com
+adstest.*
 adstextview.qq.com
 adstil.indiatimes.com
 ad-stir.com
@@ -2374,11 +2379,8 @@ adtcp.ru
 adtdp.com
 adtear.com
 adtecc.com
-adtech.com
+adtech.*
 ad-tech.com
-adtech.de
-adtech.panthercustomer.com
-adtech.sabitreklam.com
 adtechjp.com
 adtechus.com
 adtegrity.net
@@ -2409,8 +2411,7 @@ adtology1.com
 adtology2.com
 adtology3.com
 adtoma.com
-adtomafusion.com
-adtomafusion.net
+adtomafusion.*
 ad-tool.com
 adtools2.amakings.com
 adtoox.com
@@ -4713,6 +4714,7 @@ blogclans.com
 blogcounter.de
 blogdeandre.com
 blogergadgets.googlecode.com
+blogger.googleusercontent.com
 bloggeramt.de
 bloggerei.de
 bloggerex.com
@@ -5598,6 +5600,7 @@ cbanners.virtuaguyhd.com
 cbbabemymc.com
 cbbgdep.biz
 cbclicks.com
+cb-content.com
 cbcx8t95.space
 cbi.boldchat.com
 c-bizsoftportal.com
@@ -6208,6 +6211,7 @@ clickkydsp.com
 clicklink.jp
 click-linking.com
 clickly.co
+clickmanage.com
 clickmap.ch
 clickmedia.co.id
 clickmedia.ro
@@ -6512,6 +6516,7 @@ coinrail.io
 coin-service.com
 coinsicmp.com
 coinsup.com
+cointent.com
 cointraffic.in
 cointraffic.io
 coinurl.com
@@ -7518,10 +7523,12 @@ dashgreen.online
 da-shoppe-ich-gerne.de
 dasistnews.net
 dasterx.ru
+data.adsrvr.org
 data.adwombat.com
 data.cnn.com
 data.eroadvertising.com
 data.ero-advertising.com
+data.flurry.com
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
 data.mob.com
@@ -7655,6 +7662,7 @@ dedenye.ru
 dedicatedmedia.com
 dedicatednetworks.com
 deepattention.com
+deepintent.com
 deepmetrix.com
 defaultimg.com
 defaultinternet.com
@@ -9676,8 +9684,7 @@ fluentmobile.com
 fluidads.co
 fluidsurveys.com
 fluohbiy.com
-flurry.cachefly.net
-flurry.com
+flurry.*
 flurryconakrychamfer.info
 flux16.com
 fluxads.com
@@ -10421,6 +10428,7 @@ getrotas.ru
 getrotaw.ru
 getscorecash.com
 getsidecar.com
+getsmartcontent.com
 getsoftnow.smallandprecise2upgradesnew.review
 getsoftnow.smallandprecise2upgradingnew.review
 getspecialgifts.com
@@ -10765,6 +10773,7 @@ govahoyuge.itup.pw
 govbusi.info
 governmenttrainingexchange.com
 goviral.hs.llnwd.net
+goviral-content.com
 govmetric.com
 gowoman.ru
 gozatar.com
@@ -10801,10 +10810,10 @@ grandslammedia.com
 granodiorite.com
 grapeshot.co.uk
 graph.accountkit.com
+graph.facebook.com
 grapheffect.com
 graphics.fastcupid.com
 graphics.streamray.com
-graph.facebook.com
 graphinsider.com
 graphli.net
 gratifymecorrect.com
@@ -12254,6 +12263,7 @@ inringtone.com
 inrool.com
 insbrvwfrcgb.com
 inside-graph.com
+insight.adsrvr.org
 insight.ucweb.com
 insightera.com
 insightexpress.com
@@ -12928,6 +12938,7 @@ js.6dad.com
 js.a3p4.net
 js.adm.img53.com
 js.admngr.com
+js.adsrvr.org
 js.bulkhentai.com
 js.cdn.ac
 js.gdsln.ru
@@ -14010,6 +14021,7 @@ livedecmov.com
 livedecnow.com
 livedecwow.com
 livehit.net
+liveintent.com
 liveinternet.ru
 livejasmin.com
 lively-strields.com
@@ -14255,6 +14267,7 @@ lpiqwtsuduhh.com
 lplqyocxmify.com
 lpmde.xyz
 lpmxp*.com
+lpmxp.*
 lpohfjht.com
 lporirxe.com
 lppoblhorbrf.com
@@ -14499,11 +14512,6 @@ mad-adz.com
 madcash.biz
 madisonavenue.com
 madite.info
-mads.aol.com
-mads.bz
-mads.cbs.com
-mads.cbsnews.com
-mads.cnet.com
 madsack-native.de
 madserving.com
 madsone.com
@@ -14585,16 +14593,6 @@ manchina.xyz
 maneta.info
 manfys.com
 mangayhentai.com
-mangler1.generals.ea.com
-mangler10.generals.ea.com
-mangler2.generals.ea.com
-mangler3.generals.ea.com
-mangler4.generals.ea.com
-mangler5.generals.ea.com
-mangler6.generals.ea.com
-mangler7.generals.ea.com
-mangler8.generals.ea.com
-mangler9.generals.ea.com
 mangoads.net
 mangoforex.com
 maningrs.com
@@ -14675,6 +14673,7 @@ mastertracks.be
 mastertraffic.cn
 mastervesti.ru
 masudel.com
+match.adsrvr.org
 matchcows.com
 matchcraft.com
 matchmyip.com
@@ -19658,6 +19657,7 @@ reundcwkqvctq.com
 reussissonsensemble.fr
 rev.avsforum.com
 rev2pub.com
+revcontent.com
 revdepo.com
 revdn.net
 revenue.com
@@ -19730,6 +19730,7 @@ rhqkduodhizrr.com
 rhtag.com
 rhvgtmgkahm.com
 rhydel.site
+rhythmcontent.com
 rhythmxchange.com
 riaetcuycxjz.com
 riastats.com
@@ -20691,7 +20692,6 @@ serving-sys.com
 serving-system.com
 servingtrkid.com
 serv-load.com
-servserv.generals.ea.com
 servustats.com
 session.timecommerce.net
 sessioncam.com
@@ -22322,6 +22322,7 @@ te.stamfordadvocate.com
 te.sun-sentinel.com
 te.sunspot.net
 te.suntimes.com
+te.supportfreecontent.com
 te.tbo.com
 te.thestar.ca
 te.thestar.com
