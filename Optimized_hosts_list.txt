@@ -1174,6 +1174,7 @@ acs.56.com
 acs.agent.56.com
 acs.agent.v-56.com
 acs86.com
+acsseo.com
 actexhk6fehxiun.ru
 actiflex.org
 action.evrikak.ru
@@ -1288,6 +1289,7 @@ adback.tango.me
 ad-balancer.at
 ad-balancer.net
 adbanner.gr
+adbanner.ro
 adbard.net
 adbart.ru
 adbasket.net
@@ -1359,6 +1361,7 @@ adcdnx.com
 adcel.vrvm.com
 adcell.de
 ad-center.com
+adcenter.mdf.se
 adcenter.net
 adcentric.randomseed.com
 adcentriconline.com
@@ -1690,6 +1693,7 @@ adl.kinogo.by
 adlabs.ru
 adlabsnetworks.com
 adland.ru
+adlantic.nl
 adlatch.com
 adlayer.net
 adleads.com
@@ -1954,6 +1958,7 @@ adpro.com.ua
 adprofile.net
 adprofit2share.com
 adprofy.com
+adprojekt.pl
 ad-promotion.net
 adproper.info
 adprotected.com
@@ -2261,6 +2266,7 @@ ad-souk.com
 adsovo.com
 adsp.ciner.com.tr
 adsp.com
+ad-space.net
 adspace.ro
 adspace.zaman.com.tr
 adspaces.ero-advertising.com
@@ -2709,7 +2715,7 @@ adzhits.com
 adzhub.com
 adziff.com
 adzincome.in
-adzintext.com
+			 
 adzmaza.in
 adzmob.com
 adzmobi.com
@@ -3878,6 +3884,7 @@ avpa.dzone.com
 avpa.javalobby.org
 avpris.ru
 avrdpbiwvwyt.com
+avres.net
 avsads.com
 avstat.it
 avxcore.com
@@ -3956,6 +3963,7 @@ azcentra.app.ur.gcion.com
 azditojzcdkc.com
 azeozrjk.com
 azera-s014.com
+azfront.com
 azgyzdjexcxg.com
 azhdgruuvllzxg.com
 azjmp.com
@@ -4537,6 +4545,7 @@ bidsystem.com
 bidtheatre.com
 bidtraffic.com
 bidtraffic.ru
+bidtrk.com
 bid-us-e.rtbsrv.com
 bidverdrd.com
 biemedia.com
@@ -4828,6 +4837,7 @@ boguaokxhdsa.com
 boilingbeetle.com
 bokilora.com
 bokroet.com
+boldchat.com
 bold-in.ru
 bolgooltxygp.com
 bolshoykush.ru
@@ -5240,6 +5250,7 @@ buzzonclick.com
 buzzoola.com
 buzzparadise.com
 buzzreklam.com
+bvalphaserver.com
 bvezznurwekr.com
 bvobtmbziccr.com
 bvrkzhtxlgono.com
@@ -5564,6 +5575,7 @@ casino770.com
 casino-gambling-online.searchservice.info
 casinogames.com
 casino-online.100gal.net
+casinopays.com
 casinorewards.com
 casinotraffic.com
 casinotreasure.com
@@ -5602,7 +5614,7 @@ cbbgdep.biz
 cbclicks.com
 cb-content.com
 cbcx8t95.space
-cbi.boldchat.com
+				
 c-bizsoftportal.com
 cbleads.com
 cbmall.com
@@ -5686,6 +5698,7 @@ cdn.employchannel.info
 cdn.epommarket.com
 cdn.extensions.buzznet.com
 cdn.fancybar.net
+cdn.freefacti.com
 cdn.freefaits.com
 cdn.freefarcy.com
 cdn.freehalves.com
@@ -6331,6 +6344,7 @@ clk.aboxdeal.com
 clk.addmt.com
 clk.cloudyisland.com
 clk.kau.li
+clk.konflab.com
 clk.taptica.com
 clk1005.com
 clkads.com
@@ -6989,6 +7003,7 @@ creative.speednetwork13.com
 creative.speednetwork15.com
 creative.speednetwork16.com
 creative.stripchat.com
+creative.whi.co.nz
 creativecdn.com
 creatives.as4x.tmcs.net
 creatives.badongo.com
@@ -8904,6 +8919,7 @@ escokuro.com
 escottish.com
 esc-team.com
 esearchvision.com
+esellerate.net
 eset-affiliate.de
 esgwceckxumg.com
 eshopads2.com
@@ -9745,6 +9761,7 @@ following-technology.com
 folloyu.com
 fonderreaders.info
 fonderredd.info
+fonecta.leiki.com
 fontsapi278.com
 fontsapi398.com
 foo.cosmocode.de
@@ -10790,6 +10807,7 @@ gpjph.com
 gpltrrdffobf.com
 gpnduywxhgme.com
 gppkhamotypq.com
+gpr.hu
 gptafybrj.com
 gptkueuaseyut.com
 gqer.ru
@@ -11282,6 +11300,7 @@ hitboxbenchmarker.com
 hitboxcentral.com
 hitboxenterprise.com
 hitboxwireless.com
+hitcents.com
 hitcount.dk
 hit-counter.5u.com
 hit-counter.info
@@ -11799,6 +11818,7 @@ idownloadgalore.com
 idpojar.ru
 idpukwmp.com
 idreammedia.com
+idregie.com
 idtargeting.com
 idvd.su
 id-visitors.com
@@ -13475,6 +13495,7 @@ ksyrium0014.com
 kt.kt220.com
 kt4.kliptracker.com
 ktcltsgjcbjdcyrcdaspmwqwscxgbqhscmkpsxarejfsfpohkk.com
+kt-g.de
 kthdreplfmil.com
 kthztsgfuygcw.com
 ktjqfqadgmxh.com
@@ -14662,6 +14683,7 @@ massage-v-almaty.kz
 ma-static.ru
 masterads.org
 masteriklan.net
+mastermind.com
 masternal.com
 masteroids.com
 masterspace.biz
@@ -17570,6 +17592,7 @@ partner.pelikan.cz
 partner.pobieraczek.pl
 partner.superbahisaffiliates248.com
 partner.tagscreator.com
+partner.topcities.com
 partner.video.syndication.msn.com
 partner.wapacz.pl
 partner.wapster.pl
@@ -18451,6 +18474,7 @@ prm-native.com
 prndi.net
 prnetwork.de
 prnx.net
+pro.i-doctor.co.kr
 pro.letv.com
 pro100news.ru
 proadsdirect.com
@@ -18521,6 +18545,7 @@ promo.partner.alawar.ru
 promo.profxbrokers.com
 promo.rzonline.ru
 promo.streaming-illimite.net
+promo1.webcams.nl
 promo-awardzline.net
 promobagus.com
 promo-banner.ru
@@ -21985,6 +22010,7 @@ swfstats.com
 swgvpkwmojcv.com
 swiftype.com
 swinon.site
+swissadsolutions.com
 swiss-counter.com
 switchadhub.com
 switchads.com
@@ -23905,6 +23931,7 @@ update.sdk.batmobi.net
 update.theplacetoupdating.pw
 updateauto.preparevideosafesystem4unow.site
 updateauto.preparevideosafesystem4unow.space
+updated.com
 updatehere.ultimatesetnewfreeallsoftupgradesystems.pw
 upgrade.themainplacesetnowforcontentingnew.bid
 upgradeget.thegreatforupdatesafemove.download
@@ -24632,10 +24659,10 @@ vmmpxl.com
 vmm-satellite1.com
 vmm-satellite2.com
 vmojhghwpsuy.com
-vmp.boldchat.com
+				
 vmqbifesgqs.com
-vms.boldchat.com
-vmss.boldchat.com
+				
+				 
 vmtrk.com
 vmvhmwppcsvd.com
 vmweb.net
@@ -25841,6 +25868,7 @@ xqopbyfjdqfs.com
 xqrjfouxkrs.com
 xqzkpmrgcpsw.com
 xr.h4ck.la
+xrea.com
 xref.io
 xrgqermbslvg.com
 xrivpngzagpy.com
@@ -26486,6 +26514,7 @@ zijnobynjmcs.com
 zim-zim-zam.com
 zinidge.com
 zinovila.com
+zintext.com
 zinzimo.info
 zip.er.cz
 zipmonster.biz
@@ -26629,6 +26658,7 @@ zurgerya.ru
 zuuwfrphdgxk.com
 zuxanrebeceko.com
 zuzzer5.com
+zv1.november-lax.com
 zviframe.biz
 zvqjjurhikku.com
 zvrwttooqgeb.com
