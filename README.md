@@ -9,18 +9,18 @@
    
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Optimized_hosts_list.txt
 
-   - Ran script to reduce the size of the list by eliminating redundant domains from Expanded_hosts_list. Additional wildcards were added.
+   - Ran modified script to reduce the size of the list by eliminating redundant domains from Expanded_hosts_list. Additional wildcards were also added.
    - https://bit.ly/2s5KMxC
 
 ## Add-on Lists
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Youtube%20hosts.txt
 
-   - Hosts to attempt to block YouTube video ads from Pi-Hole discussion boards. Unlikely will work because YouTube uses continuously  changing subdomains.
+   - Experimental list to attempt to block YouTube video ads. This is based on information from Pi-Hole discussion boards about YouTube ad blocking. This is highly unlikely to work because YouTube uses continuously changing subdomains, and blocking all the subdomains can affect mobile playbcack.
    - Short link: https://bit.ly/2KvfXKS
 
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/mobile%20domains.txt
 
-   - (Based on AdGuard's mobile domain list)
+   - Mobile ad/tracker list based on AdGuard's mobile domain list.
    - Short link: https://bit.ly/2w2ac4j
 
 ## Credit
