@@ -6,7 +6,13 @@
 *.adtech.us
 *.advance.net
 *.advertising.com
+*.analytics.edgesuite.net
 *.bravenet.com
+*.cf1.rackcdn.com
+*.cf2.rackcdn.com
+*.cf3.rackcdn.com
+*.cf4.rackcdn.com
+*.cf5.rackcdn.com
 *.crashlytics.com
 *.economicoutlook.net
 *.focalink.com
@@ -28,6 +34,7 @@
 *.shengen.ru
 *.startappnetwork.com
 *.startappservice.com
+*.v.fwmrm.net
 *.vkuservideo.net
 *.vo.msecnd.net
 *.youku.com
@@ -169,7 +176,6 @@
 13.jdlhg.com
 130hc0ja.site
 13190546cd1dec9bbdc.com
-140cc.v.fwmrm.net
 14119276be0852.com
 1493361689.rsc.cdn77.org
 14b41d7ec7766122d.com
@@ -233,6 +239,7 @@
 1j7740kd.website
 1kdailyprofit.biz
 1l-hit.mail.ru
+1l-hit.my.com
 1link.mail.ru
 1l-view.mail.ru
 1man1jar.org
@@ -340,18 +347,12 @@
 2712f45c0bb0d67d710.com
 2728fb936f0.com
 2778255fe56.com
-2822.v.fwmrm.net
 283b9abd6cb82c.com
-2912a.v.fwmrm.net
-2915dc.v.fwmrm.net
 2962f0b09b862.com
 2964385495e9278.date
 29689f0c48d64aa5f47.com
-2975c.v.fwmrm.net
-29773.v.fwmrm.net
 29ae58661b9c7178.com
 29d65cebb82ef9f.com
-2a86.v.fwmrm.net
 2aa06b8b0760e0f85.com
 2aahvjeq.website
 2adc70d79081c250.com
@@ -373,13 +374,7 @@
 2el-2el-fie.com
 2f5a1f1fab21a56.com
 2firefox.ru
-2girls1cup.cc
-2girls1cup.com
-2girls1cup.nl
-2girls1cup.ws
-2girls1cup-free.com
-2girls1finger.com
-2girls1finger.org
+2girls1*
 2guys1stump.org
 2h045kx8.review
 2leep.com
@@ -415,7 +410,6 @@
 320147982.world
 321cba.com
 321hlnsb.webcam
-3-224863.link.iwanttodeliver.com
 32611def0dcd33a0.website
 32a79e2833309ebe.com
 32b4oilo.com
@@ -464,6 +458,7 @@
 3a727dbae773782eb.space
 3a8c9b0ca405b5.com
 3ac901bf5793b0fccff.com
+3aeeenmpdb.com
 3al.pw
 3b46c36fed731c54.com
 3b7c0f01022f61d5.com
@@ -532,6 +527,7 @@
 47a439d2b81fc30c1.com
 48.2mydns.net
 48331375c351e.com
+484f5ba7a256654d2.com
 48a298f68e0.com
 48d68bec12064b0012e.com
 493b98cce8bc1a2dd.com
@@ -729,7 +725,6 @@
 7839e0482307b9276b.com
 787787.com
 78tdd75.com
-79423.analytics.edgesuite.net
 799f3607457e.com
 79ebttm6.cricket
 79zgycmr.com
@@ -787,7 +782,6 @@
 8162bf1e58d95.win
 8233fa03a40c92d.com
 823bc1a6cd3f1657.com
-829331534d183e7d1f6a-8d91cc88b27b979d0ea53a10ce8855ec.r96.cf5.rackcdn.com
 82b9d6273154e7cbf.com
 82d914.se
 82fed4c780ef4200.com
@@ -1099,9 +1093,7 @@ absilf.link
 absolstats.co.za
 absoluteclickscom.com
 absquint.com
-abtest.mistat.intl.xiaomi.com
-abtest.mistat.xiaomi.com
-abtest.swrve.com
+abtest.*
 abtracker.us
 abusieux.com
 abyvhqmfnvih.com
@@ -2449,6 +2441,7 @@ aduacni.com
 adudzlhdjgof.com
 ad-uk.tiscali.com
 adult.av8d.net
+adult.xyz
 adultaccessnow.com
 adultadspy.com
 adult-adv.com
@@ -2715,7 +2708,6 @@ adzhits.com
 adzhub.com
 adziff.com
 adzincome.in
-			 
 adzmaza.in
 adzmob.com
 adzmobi.com
@@ -3899,6 +3891,7 @@ awcompe.info
 awdigit.info
 awecr.com
 awempire.com
+awentw.com
 awesomelytics.com
 awesomeredirector.com
 awesomevipoffers.com
@@ -3991,6 +3984,7 @@ b.books555.com
 b.cpiera.com
 b.ddestiny.ru
 b.dotbrataev.ru
+b.et.lv
 b.getprizenow.top
 b.grvcdn.com
 b.huffingtonpost.com
@@ -4305,7 +4299,6 @@ bdyzewccsqpw.com
 bdzhhjnml.pw
 be4life.ru
 be96a951a802534.com
-bea4.v.fwmrm.net
 beacon.carfax.com
 beacon.errorception.com
 beacon.guim.co.uk
@@ -5354,6 +5347,7 @@ c.mfstatic.cz
 c.microsoft.com
 c.msn.com
 c.msparktrk.com
+c.my.com
 c.my.msn.com
 c.newsinc.com
 c.ninemsn.com.au
@@ -5614,7 +5608,6 @@ cbbgdep.biz
 cbclicks.com
 cb-content.com
 cbcx8t95.space
-				
 c-bizsoftportal.com
 cbleads.com
 cbmall.com
@@ -5632,6 +5625,7 @@ cc.calltracking.ru
 cc.sys.intl.xiaomi.com
 cc.sys.miui.com
 cc.zeit.de
+cc10706.counter.hackers.lv
 cc13346.counter.hackers.lv
 cc5f.dnyp.com
 ccas.clearchannel.com
@@ -5696,6 +5690,7 @@ cdn.digitru.st
 cdn.dustyorate.com
 cdn.employchannel.info
 cdn.epommarket.com
+cdn.exitmist.com
 cdn.extensions.buzznet.com
 cdn.fancybar.net
 cdn.freefacti.com
@@ -7093,10 +7088,10 @@ csi-tracking.com
 csjuq.com
 csklde.space
 cslxhmchzgbx.com
-csma86506.analytics.edgesuite.net
 csmqorveetie.com
 csp.yahoo.com
 csponge-production.s3.amazonaws.com
+cspreport.mail.ru
 cspreports.srvcs.tumblr.com
 css-style-95.com
 cstdfxkxbqbc.com
@@ -7450,7 +7445,6 @@ d6ummfe8aubt5.cloudfront.net
 d71e6dd31a026d45.com
 d73e096e98a80e99146.site
 d7921da5d4c24.com
-d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 d7e10fa2099.com
 d7f25580a8da471f141.stream
 d7x5nblzs94me.cloudfront.net
@@ -8845,6 +8839,7 @@ epmads.com
 epndtinso.com
 epnjahss.com
 epnredirect.ru
+epnt.ebay.com
 epoch.com
 epom.com
 epomads2.4shared.com
@@ -8902,6 +8897,7 @@ err.rambler.ru
 err1.9939118.info
 err2.9939118.info
 err3.9939118.info
+error.com
 errorfixing.space
 errorfixing.tech
 error-warning-alert-critical-5x.com
@@ -12614,6 +12610,7 @@ iwantmyfreelaptop.com
 iwantmyfree-laptop.com
 iwantmy-freelaptop.com
 iwantmygiftcard.com
+iwanttodeliver.com
 iwantuonly.com
 iweacndqhiht.com
 iwebtrack.com
@@ -12786,6 +12783,7 @@ jewelcheese.com
 jewishcontentnetwork.com
 jeyoxmhhnofdhaalzlfbrsfmezfxqxgwqjkxthzptjdizuyojh.com
 jeyuhcbagxbp.com
+jf71qh5v14.com
 jfaqiomgvajb.com
 jfduv7.com
 jffwwuyychxw.com
@@ -14486,8 +14484,6 @@ m73lae5cpmgrv38.com
 m81jmqmn.ru
 ma.wp.pl
 ma1310-r.analytics.edgekey.net
-ma312-r.analytics.edgesuite.net
-ma61-c.analytics.edgesuite.net
 mabila.ua
 mabirol.com
 maboflgkaxqn.com
@@ -14622,6 +14618,7 @@ mansiontheologysoon.xyz
 manuel.theonion.com
 manuelu.com
 manughl.de
+manychat.com
 maokdata.com
 mapleway2profit.com
 maploco.com
@@ -19667,6 +19664,7 @@ retailrocket.ru
 retail-server.ru
 retainguaninefluorite.info
 retarala.ru
+retargetcore.com
 retargeter.com
 retargetingdata.com
 retargetly.com
@@ -19943,6 +19941,7 @@ roulettebotplus.com
 roulettebot-plus.com
 router.googlecom.biz
 rovarti.info
+rover.ebay.com
 rovion.com
 row.bc.yahoo.com
 row-advil.waze.com
@@ -21623,6 +21622,7 @@ static.brazzers.com
 static.cleanadulthost.com
 static.clickscloud.net
 static.cliipa.com
+static.digidip.net
 static.doyoo.net
 static.dynamicyield.com
 static.everyone.net
@@ -23164,6 +23164,7 @@ tracking-financial-review.net
 trackinglabs.com
 trackingoffer.info
 trackingoffer.net
+tracking-opi.fonpit.de
 tracking-rce.veeseo.com
 tracking-server-prod-1.zenmxapps.com
 trackingsoft.com
@@ -24399,6 +24400,7 @@ vidalak.com
 vidasys.ru
 vidaugust.ru
 vidcoin.com
+vidcpm.com
 viddirect.ru
 videc10.com
 video.bnqt.com
@@ -24659,10 +24661,7 @@ vmmpxl.com
 vmm-satellite1.com
 vmm-satellite2.com
 vmojhghwpsuy.com
-				
 vmqbifesgqs.com
-				
-				 
 vmtrk.com
 vmvhmwppcsvd.com
 vmweb.net
