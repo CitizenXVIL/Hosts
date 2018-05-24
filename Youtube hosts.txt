@@ -1,3 +1,4 @@
+manifest.googlevideo.com
 r1.sn-1gi7zn7s.googlevideo.com
 r1.sn-25glen7l.googlevideo.com
 r1.sn-4g5e6n7r.googlevideo.com
@@ -153,3 +154,4 @@ r8.sn-qxau5-btqz.googlevideo.com
 r8.sn-ug5onuxaxjvh-n8vs.googlevideo.com
 r9.sn-4gxx-25ge7.googlevideo.com
 r9.sn-n8v7zn76.googlevideo.com
+redirector.googlevideo.com
