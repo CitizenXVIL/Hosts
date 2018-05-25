@@ -1,5 +1,15 @@
 # Personal hosts list for mobile ad blockers apps.
 
+## Host aggregator script
+ * This script aggregates the following hosts lists, processes them into a Samsung Knox friendly format, and removes any duplicate and redundant hosts.
+   - AdHell original list
+   - Dan Pollock
+   - Peter Lowe
+   - Bjorn Stormberg
+   - mmotti manual additions
+   - StevenBlack Unified hosts
+   - AdGuard Simplified domain names filter
+
 ## Main lists
 
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Expanded_hosts_list.txt
