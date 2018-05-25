@@ -27,7 +27,7 @@
 
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/mobile%20domains.txt
    - Mobile ad/tracker list based on AdGuard's mobile domain list.
-   - This was manually processed into a Knox friendly format.
+   - This was list is automatically processed by a script.
    - Short link: https://bit.ly/2w2ac4j
 
 ## Credit
