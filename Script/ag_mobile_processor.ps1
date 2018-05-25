@@ -6,7 +6,7 @@ Write-Output 'Fetching AdGuard Mobile ads filter...'
 $hosts = (Invoke-WebRequest -Uri https://filters.adtidy.org/extension/chromium/filters/11.txt -UseBasicParsing).Content -split '\n'
 
 #Output file location
-$out_file     = "$PSScriptRoot\mobile hosts.txt"
+$out_file     = "$PSScriptRoot\mobile domains.txt"
 
 # Output host count prior to removals
 
