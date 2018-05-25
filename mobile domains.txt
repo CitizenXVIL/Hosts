@@ -5,7 +5,6 @@
 2o7.net
 360yield.com
 4seeresults.com
-883.engine.mobileapptracking.com
 a.applvn.com
 a.bitmango.com
 a2dfp.net
@@ -104,7 +103,6 @@ adpublisher.s3.amazonaws.com
 adpush.goforandroid.com
 adquota.com
 ads.ad2iction.com
-ads.admarvel.com
 ads.admoda.com
 ads.aerserv.com
 ads.aitype.net
@@ -115,7 +113,6 @@ ads.glispa.com
 ads.jianchiapp.com
 ads.marvel.com
 ads.matomymobile.com
-ads.mdotm.com
 ads.mobilefuse.net
 ads.mobilityware.com
 ads.mobvertising.net
@@ -129,7 +126,6 @@ ads.taptapnetworks.com
 ads.tremorhub.com
 ads.xlxtra.com
 ads.yahoo.com
-ads.yemonisoni.com
 ads.youtube.com
 adsafeprotected.com
 adsame.com
@@ -159,7 +155,6 @@ adsrvmedia.net
 adsrvr.org
 ad-stir.com
 adsunflower.com
-adsx.greystripe.com
 adsymptotic.com
 adtaily.pl
 adtech.de
@@ -173,7 +168,6 @@ advantech.vo.llnwd.net
 adversal.com
 adverticum.net
 advertise.com
-advertiser.fyber.com
 advertising.com
 advertur.ru
 advmob.cn
@@ -210,7 +204,6 @@ amp-error-reporting.appspot.com
 amptrack-dailymail-co-uk.cdn.ampproject.org
 an.batmobi.net
 analy.qq.com
-analytics.ad.daum.net
 analytics.any.do
 analytics.ff.avast.com
 analytics.liftoff.io
@@ -228,7 +221,6 @@ android.bugly.qq.com
 ap.smardroid.com
 api.ad.intl.xiaomi.com
 api.ad.xiaomi.com
-api.adflake.com
 api.ad-locus.com
 api.ads.watchabc.go.com
 api.ampiri.com
@@ -315,7 +307,6 @@ bannersnack.com
 banners-slb.mobile.yandex.net
 bannerwall.herewetest.com
 bannerwall.s3.appcnt.com
-base-cdn.admarvel.com
 bayctrk.com
 bcfads.com
 beacon.carfax.com
@@ -376,7 +367,6 @@ cedexis.com
 cedexis-radar.net
 celtra.com
 ceppartner.com
-cf-ads.pinger.com
 chango.com
 chartboost.com
 chartboosts.com
@@ -411,7 +401,6 @@ cpmrocket.com
 cpmstar.com
 cpxinteractive.com
 crasheye.cn
-crispadvertising.com
 crossboardmobile.com
 crosspromotion.weplayer.cc
 crosspromotion-us.avosapps.us
@@ -463,7 +452,6 @@ engine.mobileapptracking.com
 ep.xone.com
 e-planning.net
 epom.com
-ero-advertising.com
 e-ssl.apsalar.com
 etargetnet.com
 et-code.ru
@@ -512,8 +500,6 @@ gigamega.su
 giveawayoftheday.com
 gizchina.com
 gizmobolt.com
-gj.applog.uc.cn
-gjapplog.uc.cn
 gmx.net
 go.admost.com
 go.mobstitial.com
@@ -552,7 +538,6 @@ httpool.com
 huntmad.com
 hyperadx.com
 i.skimresources.com
-i.tapit.com
 i2.myapkcdn.in
 i2ad.jp
 iad.appboy.com
@@ -639,7 +624,6 @@ m.cricbuzz.com
 m.dizilab.net
 m.fanfox.net
 m.iceporn.com
-m.mixadvert.com
 m.ndtv.com
 m.nuvid.com
 m.postimees.ee
@@ -676,7 +660,6 @@ meendocash.com
 metamx.com
 metavertising.com
 metok.sys.miui.com
-metrics.adflake.com
 metrics.bestbuy.com
 metrics.macys.net
 metrics.sdkbox.com
@@ -722,7 +705,6 @@ mofox.com
 mojiva.com
 mologiq.net
 mookie1.com
-mopub.web107-east.manage.com
 mopub-win-us-east.bksn.se
 morgdm.ru
 moroccoworldnews.com
@@ -733,11 +715,9 @@ msads.net
 msbmopod.vo.llnwd.net
 msbrandent.vo.llnwd.net
 m-shes.ru
-msntest.serving-sys.com
 mtag.mman.kr
 mtburn.com
 mtburn.jp
-mtlog.droid4x.cn
 mtrcss.com
 mxtads.com
 mxttrf.com
@@ -747,7 +727,6 @@ mydas.mobi
 myinfotopia.com
 mythings.com
 n152adserv.com
-n4403ad.doubleclick.net
 nanigans.com
 nasdfg.com
 native.cli.bz
@@ -767,7 +746,6 @@ nexac.com
 nexage.akadns.net
 nickhel.com
 nkredir.com
-nlog.droid4x.cn
 nmcdn.us
 nomalleadzuaff.com
 nonmoves.date
@@ -796,11 +774,9 @@ openstat.net
 optimatic.com
 os.scmpacdn.com
 pagefair.net
-partner.googleadservices.com
 partnerearning.com
 pasta.esfile.duapps.com
 patriot.cs.pp.cn
-p-behacdn.ksmobile.net
 perf-events.cloud.unity3d.com
 pflexads.com
 phluant.com
@@ -852,7 +828,6 @@ reklamz.com
 relap.io
 reporo.net
 report.appmetrica.webvisor.com
-report.appmetrica.yandex.net
 resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 responsys.hs.llnwd.net
@@ -866,7 +841,6 @@ rlog.9gag.com
 rlog-api.under9.co
 robocat.me
 rotaban.ru
-rt.applovin.com
 rt.applvn.com
 rtb.kds.media
 rtb.nexage.com
@@ -874,7 +848,6 @@ rtb.platform.glispa.com
 rtbpop.com
 rts.mobula.sdk.duapps.com
 rubiconproject.com
-s.innovid.com
 sasisa.ru
 saymedia.com
 sc-analytics.appspot.com
@@ -896,7 +869,6 @@ serving-sys.com
 sessionm.com
 setting.rayjump.com
 shareasale.com
-shared.iad.appboy.com
 sharethrough.com
 shenghuo.xiaomi.com
 silvermob.com
@@ -954,7 +926,6 @@ tapone.jp
 tappx.com
 tapsense.com
 targetspot.com
-taurus.iad.appboy.com
 teachscape.vo.llnwd.net
 teads.tv
 telemetryverification.net
@@ -969,7 +940,6 @@ tidaltv.com
 timesofindia.indiatimes.com
 tizerclik.com
 tkmftc.aotter.net
-tknet.rayjump.com
 tkrecorder.aotter.net
 tktracker.aotter.net
 tm1.hoiplay.com
@@ -1092,3 +1062,4 @@ zeus.ad.intl.xiaomi.com
 ziffdavis.com
 zoglafi.info
 zzhengre.com
+
