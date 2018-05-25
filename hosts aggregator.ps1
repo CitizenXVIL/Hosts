@@ -14,34 +14,38 @@ $wildcards    = 'generated_wildcards.txt'
 $regex_file   = 'regex_removals.txt'
 $whitelist    = 'whitelist.txt'
 
+#Output file location
 $out_file     = "$PSScriptRoot\hosts.txt"
 
 # Emtpy hosts array
 
 $hosts = @()
 
-# For each host file
+# Fetch host files
 
+Write-Output 'Fetching host files...'
 foreach($host_list in $host_files)
 {
-    Write-Output "--> Fetching $host_list"
+    Write-Output "--> $host_list"
 
     # Add hosts to the array
 
     $hosts += (Invoke-WebRequest -Uri $host_list -UseBasicParsing).Content -split '\n'
 }
 
-# Fetch mmotti's host file separately
+# Fetch mmotti's host and white list files separately
 
-Write-Output "--> Fetching $wildcards"
+Write-Output "Fetching auxiliary files..."
+
+Write-Output "--> $wildcards"
 
 $mmhosts      = (Get-Content $wildcards) -split '\n'
 
-Write-Output "--> Fetching $whitelist"
+Write-Output "--> $whitelist"
 
-$whitelist      = (Get-Content $whitelist) -split '\n'
+$whitelist    = (Get-Content $whitelist) -split '\n'
 
-Write-Output '--> Parsing host files'
+Write-Output "`nParsing host files..."
 
 # Remove local end-zone
 
@@ -72,12 +76,12 @@ $hosts        = $hosts | Select-String '(^\s*$)' -NotMatch
 
 # Output host count prior to removals
 
-Write-Output "--> Hosts Detected: $($hosts.count)"
+Write-Output "---> Total hosts count: $($hosts.count)"
 
 # Extra removals for wildcards
 # Get regex filters
 
-Write-Output "--> Running regex removals (this may take a minute)"
+Write-Output "`nRunning regex removals (this will take several minutes)..."
 
 $regex_str    = (Get-Content $regex_file) -split '\n'
 
@@ -94,13 +98,14 @@ $hosts        = $hosts += $mmhosts
 
 # Remove whitelisted hosts from main hosts
 
-$hosts = $hosts |Where-Object { $whitelist -notcontains $_ }
+$hosts        = $hosts |Where-Object { $whitelist -notcontains $_ }
 
 # Count total hosts
 
-Write-Output "--> Hosts Detected: $($hosts.count)"
+Write-Output "---> Finished running regex removal"
+Write-Output "---> New hosts count: $($hosts.count)"
 
-Write-Output "--> Removing duplicate hosts (this may take a minute)...`n"
+Write-Output "`nRemoving duplicate hosts..."
 
 <#############################################
        Fastest way to remove matchinfo
@@ -108,62 +113,46 @@ Write-Output "--> Removing duplicate hosts (this may take a minute)...`n"
 
 $hosts        = $hosts -replace ''
 
-##############################################
-
 # Remove duplicates and force lower case
 
 $hosts        = ($hosts).toLower() | Sort-Object -Unique
 
-# Output host count prior to next set of removals removal
-
-Write-Output "--> Hosts Detected: $($hosts.count)"
+Write-Output "---> Finished removing duplicate hosts"
+Write-Output "---> New hosts count: $($hosts.count)"
+$icount = $($hosts.count)
 
 <##############################################
             Remove redundant domains
 ###############################################>
 
-#Natively defined reverse function
+# Natively defined reverse function
+# Note: Does not work properly with Unicode combining characters
+#       and surrogate pairs.
 function reverse($str) { $a = $str.ToCharArray(); [Array]::Reverse($a); -join $a }
 
-#Defined variables for following while loop
-$iicount = $($hosts.count)
-$icount = $($hosts.count)
-$fcount = 0
-$removed = 1
 
-Write-Output "Removing redundant domains by wildcard (this will take several minutes)...`n"
+Write-Output "`nRemoving redundant domains by wildcard..."
 
-#Loop to remove redundant domains by reversing and comparing array elements
-While ($removed -ne 0) {
+$hosts = $hosts | ForEach-Object { reverse $_ } | Sort-Object |
+  ForEach-Object { $prev = $null } {
+    if ($null -eq $prev -or $_ -notlike "$prev*" ) { 
+      reverse $_
+      $prev = $_
+    }
+  } | Sort-Object -Unique
 
-    $icount = $($hosts.count)
+#Final hosts count
+Write-Output "---> Finished removing redundant hosts"
+Write-Output "---> Final hosts count: $($hosts.count)"
 
-    $hosts = $hosts | ForEach-Object { reverse $_ } | Sort-Object |
-      ForEach-Object { $prev = $null } {
-        if ($null -eq $prev -or $_ -notlike "$prev*" ) { reverse $_ }
-        $prev = $_
-      } | Sort-Object
-
-    $fcount = $($hosts.count)
-    $removed = $icount - $fcount
-    Write-Output "Initial Count: $icount, Reduced Count: $fcount, Removed Domains: $removed"
-}
-
-$removed = $iicount - $fcount
-
-Write-Output "`nFinished removing redundant domains.`nInitial Count: $iicount, Final Count: $fcount, Total Domains Removed: $removed`n"
-
-Write-Output "Saving to file..."
-
-#Force elements to lowercase and remove duplicates
-$hosts = ($hosts).toLower() | Sort-Object -Unique
+Write-Output "`nSaving to file..."
 
 #New line after each element
-$hosts = $hosts -join "`n"
+$hosts       = $hosts -join "`n"
 
 #Output to file.
 [System.IO.File]::WriteAllText($out_file,$hosts)
 
 Write-Output "--> Host file saved to: $out_file"
 
-Read-Host 'Press Enter to continue…' | Out-Null
+#Read-Host 'Press Enter to continue…' | Out-Null
