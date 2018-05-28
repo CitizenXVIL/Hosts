@@ -9,6 +9,8 @@
    - mmotti manual additions
    - StevenBlack Unified hosts
    - AdGuard Simplified domain names filter
+   - Malware Domain List
+   - ZeroDot1's CoinBlockerLists
 
 ## Main lists
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Expanded_hosts_list.txt
