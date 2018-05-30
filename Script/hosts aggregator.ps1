@@ -1,16 +1,23 @@
 ﻿Clear-Host
 
+# Get Start Time
+$startDTM = (Get-Date)
+
+
 # User defined variables
 
 $host_files   = 'http://getadhell.com/standard-package.txt',` #AdHell original list
                 'http://someonewhocares.org/hosts/hosts',` #Dan Pollock
                 'https://pgl.yoyo.org/as/serverlist.php?showintro=0;hostformat=hosts',` #Peter Lowe
                 'https://raw.githubusercontent.com/bjornstar/hosts/master/hosts',` #Bjorn Stormberg
-                'https://goo.gl/bGNWyV',` #mmotti manual additions -> merge this into regex and wildcards
-                'https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts',` #StevenBlack Unified hosts
-                'https://filters.adtidy.org/extension/chromium/filters/15.txt'  #AdGuard Simplified domain names filter
-                ###'https://hosts-file.net/ad_servers.txt' hpHosts ad servers; too large###
-$wildcards    = 'generated_wildcards.txt'
+                'https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts',` #Steven Black's ad-hoc list
+                #'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts',` #Steven Black's Unified hosts + fakenews + gambling + porn + social
+                'http://www.malwaredomainlist.com/hostslist/hosts.txt',` #Malware Domain List
+                'https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser',` #CoinBlocker
+                'https://filters.adtidy.org/extension/chromium/filters/15.txt',`  #AdGuard Simplified domain names filter
+                'https://filters.adtidy.org/extension/chromium/filters/11.txt'  #AdGuard Mobile ads filter
+                #'https://hosts-file.net/ad_servers.txt' #hpHosts ad servers; too large
+$manualadds   = 'manual_additions.txt'
 $regex_file   = 'regex_removals.txt'
 $whitelist    = 'whitelist.txt'
 
@@ -37,15 +44,25 @@ foreach($host_list in $host_files)
 
 Write-Output "Fetching auxiliary files..."
 
-Write-Output "--> $wildcards"
+Write-Output "--> $manualadds"
 
-$mmhosts      = (Get-Content $wildcards) -split '\n'
+$manual       = (Get-Content $manualadds) -split '\n'
 
 Write-Output "--> $whitelist"
 
 $whitelist    = (Get-Content $whitelist) -split '\n'
 
 Write-Output "`nParsing host files..."
+
+# Remove filter syntax
+$hosts        = $hosts | Select-String '^(.*)(##)+(.*)$' -NotMatch   |
+                         Select-String '^(.*)(#\$#)+(.*)$' -NotMatch |
+                         Select-String '^(.*)(#@#)+(.*)$' -NotMatch  |
+                         Select-String '^(.*)(#%#)+(.*)$' -NotMatch  |
+                         Select-String '^@@(.*)$' -NotMatch          |
+                         Select-String '^!(.*)$' -NotMatch
+$hosts        = $hosts -replace '\||'`
+                       -replace '\^'
 
 # Remove local end-zone
 
@@ -63,9 +80,6 @@ $hosts        = $hosts -replace '(#.*)|((\s)+#.*)'
 
 $hosts        = $hosts -replace '^(www)([0-9]{0,3})?(\.)'
 
-# Remove filter syntax
-$hosts        = $hosts -replace '\||'`
-                       -replace '\^'
 # Only select 'valid' URLs
 
 $hosts        = $hosts | Select-String '(?sim)(?=^.{4,253}$)(^((?!-)[a-z0-9-]{1,63}(?<!-)\.)+[a-z]{2,63}$)|^([\*])([A-Z0-9-_.]+)$|^([A-Z0-9-_.]+)([\*])$|^([\*])([A-Z0-9-_.]+)([\*])$' -AllMatches
@@ -94,7 +108,7 @@ foreach($regex in $regex_str)
 
 # Add custom hosts to the main hosts
 
-$hosts        = $hosts += $mmhosts
+$hosts        = $hosts += $manual
 
 # Remove whitelisted hosts from main hosts
 
@@ -154,5 +168,11 @@ $hosts       = $hosts -join "`n"
 [System.IO.File]::WriteAllText($out_file,$hosts)
 
 Write-Output "--> Host file saved to: $out_file"
+
+# Get End Time
+$endDTM = (Get-Date)
+
+# Echo Time elapsed
+"Elapsed Time: $(($endDTM-$startDTM).totalseconds) seconds"
 
 #Read-Host 'Press Enter to continue…' | Out-Null
