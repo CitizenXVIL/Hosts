@@ -17,11 +17,12 @@
 
 ## Main lists
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Expanded_hosts_list.txt
-   - Ran original mmotti script with default domains plus adguard's simplified host list
+   - Ran original mmotti script with default domains plus Adguard's Simplified domain names filter.
    - Short link: https://bit.ly/2KhySZ3
    
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Optimized_hosts_list.txt
-   - Ran modified script to create an optimized version of the Expanded_hosts_list. Additional wildcards and regex removals were also added.
+   - Ran "host aggregator script" to create an optimized version of the Expanded_hosts_list. Additional wildcards and regex removals were also added.
+   - There may be false positives.
    - Short link: https://bit.ly/2s5KMxC
 
 ## Add-on Lists
