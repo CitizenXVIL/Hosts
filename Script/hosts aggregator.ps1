@@ -1,4 +1,4 @@
-﻿Clear-Host
+Clear-Host
 
 # Get Start Time
 $startDTM = (Get-Date)
@@ -8,14 +8,18 @@ $startDTM = (Get-Date)
 
 $host_files   = 'http://getadhell.com/standard-package.txt',` #AdHell original list
                 'http://someonewhocares.org/hosts/hosts',` #Dan Pollock
-                'https://pgl.yoyo.org/as/serverlist.php?showintro=0;hostformat=hosts',` #Peter Lowe
+                'https://pgl.yoyo.org/as/serverlist.php?hostformat=nohtml',` #Peter Lowe
                 'https://raw.githubusercontent.com/bjornstar/hosts/master/hosts',` #Bjorn Stormberg
+                'https://adaway.org/hosts.txt',` #AdAway containing mobile ad providers
                 'https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts',` #Steven Black's ad-hoc list
                 #'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts',` #Steven Black's Unified hosts + fakenews + gambling + porn + social
                 'http://www.malwaredomainlist.com/hostslist/hosts.txt',` #Malware Domain List
-                'https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser',` #CoinBlocker
+                'https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser',` #ZeroDot1's CoinBlocker
+                'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt',` #hoshsadiq's CoinBlocker
                 'https://filters.adtidy.org/extension/chromium/filters/15.txt',`  #AdGuard Simplified domain names filter
-                'https://filters.adtidy.org/extension/chromium/filters/11.txt'  #AdGuard Mobile ads filter
+                'https://filters.adtidy.org/extension/chromium/filters/11.txt',`  #AdGuard Mobile ads filter
+                'https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt',` #EasyList, justdomains version
+                'https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt' #EasyPrivacy, justdomains version
                 #'https://hosts-file.net/ad_servers.txt' #hpHosts ad servers; too large
 $manualadds   = 'manual_additions.txt'
 $regex_file   = 'regex_removals.txt'
@@ -89,6 +93,14 @@ $hosts        = $hosts | Select-String '(?sim)(?=^.{4,253}$)(^((?!-)[a-z0-9-]{1,
 $hosts        = $hosts | Select-String '(^\s*$)' -NotMatch
 
 # Output host count prior to removals
+
+Write-Output "---> Total hosts count: $($hosts.count)"
+
+# Remove duplicates prior to additional removes
+
+Write-Output "`nRemoving duplicate hosts..."
+
+$hosts        = $hosts | Sort-Object -Unique
 
 Write-Output "---> Total hosts count: $($hosts.count)"
 
