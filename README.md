@@ -3,14 +3,17 @@
 ## Host aggregator script
  * This script aggregates the following hosts files , processes them into a Samsung Knox friendly format, and removes any duplicate and redundant hosts.
    - AdHell original package
-   - Dan Pollock
-   - Peter Lowe
-   - Bjorn Stormberg
-   - mmotti manual additions
-   - StevenBlack Unified hosts
-   - AdGuard Simplified domain names filter
-   - Malware Domain List
-   - ZeroDot1's CoinBlockerLists
+   - [Dan Pollock aka someonewhocares](http://someonewhocares.org/hosts/)
+   - [Peter Lowe](https://pgl.yoyo.org/as/serverlist.php?showintro=0;hostformat=hosts)
+   - [Bjorn Stormberg](https://github.com/bjornstar/hosts)
+   - [StevenBlack's ad-hoc list](https://github.com/StevenBlack/hosts)
+   - [AdGuard Simplified domain names filter](https://kb.adguard.com/en/general/adguard-ad-filters#domains)
+   - [AdGuard Mobile ads filter](https://kb.adguard.com/en/general/adguard-ad-filters#mobile)
+   - [Malware Domain List](http://www.malwaredomainlist.com/hostslist/hosts.txt)
+   - [ZeroDot1's CoinBlockerLists](https://github.com/ZeroDot1/CoinBlockerLists)
+   - [hoshsadiq's adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list)
+   - EasyList ([justdomains' version](https://github.com/justdomains/blocklists#easylist-domains-only))
+   - EasyPrivacy ([justdomains' version](https://github.com/justdomains/blocklists#easyprivacy-domains-only))
 
 ## Main lists
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Expanded_hosts_list.txt
