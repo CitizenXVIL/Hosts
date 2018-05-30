@@ -14,7 +14,7 @@
    - [hoshsadiq's adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list)
    - EasyList ([justdomains' version](https://github.com/justdomains/blocklists#easylist-domains-only))
    - EasyPrivacy ([justdomains' version](https://github.com/justdomains/blocklists#easyprivacy-domains-only))
-  * This is an extension of [mmotti's script](https://github.com/mmotti/mmotti-host-file). Changes include but are not limited to:
+ * This is an extension of [mmotti's script](https://github.com/mmotti/mmotti-host-file). Changes include but are not limited to:
    - adding more wildcards and domains to the manual list.
    - removing obsolete wildcards and regex from lists.
    - updating regex removal to support removal of filter list syntax.
