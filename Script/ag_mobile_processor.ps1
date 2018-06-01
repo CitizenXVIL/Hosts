@@ -1,4 +1,4 @@
-﻿Clear-Host
+Clear-Host
 
 # User defined variables
 
@@ -15,12 +15,13 @@ Write-Output "--> Total hosts count: $($hosts.count)"
 Write-Output 'Parsing host files...'
 Write-Output '--> Removing non-domain entries, whitelist entries, comments etc.'
 
-# Remove filter synx
-$hosts        = $hosts | Select-String '^(.*)##(.*)$' -NotMatch
-
-$hosts        = $hosts | Select-String '^@@(.*)$' -NotMatch
-
-$hosts        = $hosts | Select-String '^!(.*)$' -NotMatch
+# Remove filter list syntax
+$hosts        = $hosts | Select-String '^(.*)(##)+(.*)$' -NotMatch   |
+                         Select-String '^(.*)(#\$#)+(.*)$' -NotMatch |
+                         Select-String '^(.*)(#@#)+(.*)$' -NotMatch  |
+                         Select-String '^(.*)(#%#)+(.*)$' -NotMatch  |
+                         Select-String '^@@(.*)$' -NotMatch          |
+                         Select-String '^!(.*)$' -NotMatch
 
 $hosts        = $hosts -replace '\||'`
                        -replace '\^'
