@@ -20,6 +20,7 @@ $host_files   = 'http://getadhell.com/standard-package.txt',` #AdHell original l
                 'https://filters.adtidy.org/extension/chromium/filters/11.txt',`  #AdGuard Mobile ads filter
                 'https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt',` #EasyList, justdomains version
                 'https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt' #EasyPrivacy, justdomains version
+                #'https://adzhosts.fr/hosts/adzhosts-android.txt' #Default list used by Blokada; too large
                 #'https://hosts-file.net/ad_servers.txt' #hpHosts ad servers; too large
 $manualadds   = 'manual_additions.txt'
 $regex_file   = 'regex_removals.txt'
