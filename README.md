@@ -14,20 +14,13 @@
    - [hoshsadiq's adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list)
    - EasyList ([justdomains' version](https://github.com/justdomains/blocklists#easylist-domains-only))
    - EasyPrivacy ([justdomains' version](https://github.com/justdomains/blocklists#easyprivacy-domains-only))
- * This is an extension of [mmotti's script](https://github.com/mmotti/mmotti-host-file). Changes include but are not limited to:
-   - adding more wildcards and domains to the manual list.
-   - removing obsolete wildcards and regex from lists.
-   - updating regex removal to support removal of filter list syntax.
-   - updating script to remove domains that Knox would consider redundant.
+   - and more...
+ * This is a modified version of [mmotti's script](https://github.com/mmotti/mmotti-host-file).
 
 ## Main lists
-* Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Expanded_hosts_list.txt
-   - Ran original mmotti script with default domains plus Adguard's Simplified domain names filter.
-   - Short link: https://bit.ly/2KhySZ3
-   
 * Link: https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Optimized_hosts_list.txt
-   - Ran hosts_aggregator script to create a larger and more encompassing list.
-   - There may be false positives. Testing is limited to personaly apps, and webpages I browse regularly.
+   - Ran hosts_aggregator script to create custom, personal hosts list.
+   - There may be false positives. Testing is limited to apps and webpages I browse regularly.
    - Short link: https://bit.ly/2s5KMxC
 
 ## Add-on Lists
