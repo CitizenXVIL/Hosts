@@ -14,6 +14,8 @@
    - [hoshsadiq's adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list)
    - EasyList ([justdomains' version](https://github.com/justdomains/blocklists#easylist-domains-only))
    - EasyPrivacy ([justdomains' version](https://github.com/justdomains/blocklists#easyprivacy-domains-only))
+   - [280blocker](https://280blocker.net/files/280blocker_domain.txt)
+   - [MobileAdTrackers](https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts)
    - and more...
  * This is a modified version of [mmotti's script](https://github.com/mmotti/mmotti-host-file).
 
