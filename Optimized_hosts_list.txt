@@ -24,7 +24,6 @@
 *.sapo.pt
 *.shengen.ru
 *.startappnetwork.com
-*.vkuservideo.net
 *.youku.com
 0.start.bz
 0.up.qingdaonews.com
