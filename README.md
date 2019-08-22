@@ -10,7 +10,6 @@
    - [AdGuard Simplified domain names filter](https://kb.adguard.com/en/general/adguard-ad-filters#domains)
    - [AdGuard Mobile ads filter](https://kb.adguard.com/en/general/adguard-ad-filters#mobile)
    - [Malware Domain List](http://www.malwaredomainlist.com/hostslist/hosts.txt)
-   - [ZeroDot1's CoinBlockerLists](https://github.com/ZeroDot1/CoinBlockerLists)
    - [hoshsadiq's adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list)
    - EasyList ([justdomains' version](https://github.com/justdomains/blocklists#easylist-domains-only))
    - EasyPrivacy ([justdomains' version](https://github.com/justdomains/blocklists#easyprivacy-domains-only))
