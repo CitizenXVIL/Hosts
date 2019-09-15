@@ -8,7 +8,6 @@
    - [Bjorn Stormberg](https://github.com/bjornstar/hosts)
    - [StevenBlack's ad-hoc list](https://github.com/StevenBlack/hosts)
    - [AdGuard Simplified domain names filter](https://kb.adguard.com/en/general/adguard-ad-filters#domains)
-   - [AdGuard Mobile ads filter](https://kb.adguard.com/en/general/adguard-ad-filters#mobile)
    - [Malware Domain List](http://www.malwaredomainlist.com/hostslist/hosts.txt)
    - [hoshsadiq's adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list)
    - [280blocker](https://280blocker.net/files/280blocker_domain.txt)
