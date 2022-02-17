@@ -7,11 +7,9 @@
    - [Peter Lowe](https://pgl.yoyo.org/as/serverlist.php?showintro=0;hostformat=hosts)
    - [Bjorn Stormberg](https://github.com/bjornstar/hosts)
    - [StevenBlack's ad-hoc list](https://github.com/StevenBlack/hosts)
-   - [AdGuard Simplified domain names filter](https://kb.adguard.com/en/general/adguard-ad-filters#domains)
-   - [Malware Domain List](http://www.malwaredomainlist.com/hostslist/hosts.txt)
+   - [AdGuard DNS filter](https://github.com/AdguardTeam/AdGuardSDNSFilter)
    - [hoshsadiq's adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list)
-   - [280blocker](https://280blocker.net/files/280blocker_domain.txt)
-   - [MobileAdTrackers](https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts)
+   - [GoodbyeAds ](https://github.com/jerryn70/GoodbyeAds)
    - and more...
  * This is a modified version of [mmotti's script](https://github.com/mmotti/mmotti-host-file).
 
